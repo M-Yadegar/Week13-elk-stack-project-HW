@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
@@ -82,3 +83,6 @@ These Beats allow us to collect the following information from each machine:
 
 - Metricbeats, which provides the metrics of the system and the servers of the specified machine. It will send the data to logstash. An exampe of this is the metric data that is shown on Kibana.
 
+=======
+# Week13-elk-stack-project-HW
+>>>>>>> ab61f34b5321ac497d5c1b128da8e5bedbf4752b
